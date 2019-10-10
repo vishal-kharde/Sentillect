@@ -1,0 +1,52 @@
+
+UI Development:
+Implementing the Web based UI Screen using React js or something else. - tanvi  (Till 13 Oct)
+
+
+Backend Development:
+1.Adding Twitter Fetch Function - Vishal (Till Sun)
+2.Adding TweetNLP POS tagger - Vishal (Till Sun)
+3.Preprocessing - adding more features - Vishal/Manorama
+
+4.Clustering of tweets into 6 categories- Bag Of Words or Kmeans  -Manorama/Vishal
+
+5. Trying vader sentiment(To be done), textblob(To be Done) and sentiwordnet(Done) and choosing the one
+giving best accuracy - randorm forest ? Majority approach       - Manorama (till 13 Sun)
+Testing accuracy with Gold standard Dataset
+
+
+Graph Plotting - Manorama (In the end)
+
+11 Friday
+12 Saturday
+13 Sunday (Evening - Team connect)
+14 Monday
+15 Tuesday
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
