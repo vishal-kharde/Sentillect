@@ -4,6 +4,7 @@ import re
 from nltk.tokenize import word_tokenize
 from nltk.corpus import wordnet
 from nltk.corpus import sentiwordnet
+from SourceCode import CMUTweetTagger
 
 def preProcessing(inputFileStr,outputFileStr,printResult):
     inputFile = open (inputFileStr,"r").read()
